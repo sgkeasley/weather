@@ -1,6 +1,6 @@
 ## London Weather
 
-**This project uses AJAX with Fetch API to display the current weather on a webpage.**
+**This project uses AJAX with Fetch API, aswell as DOM manipulation, to display the current weather on a webpage.**
 
 **Contents**
 * weather.html
